@@ -55,8 +55,9 @@ descripción del proyecto
 
 ## Built With
 
-*[HTML5]
-*[JavaScript]
+* [HTML5] 
+* [JavaScript]
+* [Bootstrap] 
 
 ## Authors
 
