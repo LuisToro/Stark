@@ -40,21 +40,6 @@ d. Debe existir mínimo una etiqueta (release)
 e. Debe tener un archivo README.md en el directorio raíz con la
 descripción del proyecto
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine.
-open index.html
-
-### Prerequisites
-
-What things you need to view the html.
-
-```
-Install Google Chrome
-```
-```
-Install Mozilla Firefox
-```
 
 ### Objetivos
 
